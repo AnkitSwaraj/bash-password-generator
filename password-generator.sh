@@ -1,7 +1,7 @@
 #! /usr/bin/bash
 #! /bin/bash
 
-# Programed by Ankit
+# Programed by Ankit Swaraj
 
 red=`tput setaf 1`
 green=`tput setaf 2`
@@ -9,7 +9,7 @@ reset=`tput sgr0`
 
 
 echo "${red}Programed by:" 
-echo "RISHAV KUMAR ${reset}"
+echo "ANKIT SWARAJ ${reset}"
 echo "Random Password Generator"
 
 echo "............................................."
